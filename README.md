@@ -1,4 +1,4 @@
-# Symmetric Encryption & Cipher Modes Lab
+# Symmetric Encryption & Cipher Modes
 
 This project is part of a lab assignment from the ECE/CS 5560 course, focusing on symmetric-key encryption techniques and block cipher modes. It involves practical cryptography exercises using OpenSSL, Python, C, and Docker containers.
 
