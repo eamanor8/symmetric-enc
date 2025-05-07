@@ -17,7 +17,7 @@ Through a series of six tasks, this lab provides hands-on experience with:
 - Oracle-based chosen-plaintext attack (Task 6.3)
 
 📄 A detailed report of the lab activities is included here:
-- `Lab2_Symmetric_Cipher_Modes.pdf`
+- `symmetric_enc_report.pdf`
 
 ## 🧱 Directory Structure
 
